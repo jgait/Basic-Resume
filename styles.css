@@ -208,7 +208,7 @@ h1.name {
 .card-active , .card:hover{
 	transform: scale(1.02);
 	border-radius: 20px;
-	transition: 1s;
+	transition: 0.5s;
 	background-color: #fff;
 	box-shadow: 0px 5px 50px -8px #ddd;
 	cursor: pointer;
